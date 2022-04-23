@@ -1,0 +1,72 @@
+version: '3'
+
+services:
+
+  mysql:
+
+    image: mariadb
+
+    volumes:
+
+      - ./mysql:/var/lib/mysql
+
+    environment:
+
+      MYSQL_ROOT_PASSWORD: Ultimo@20
+
+      MYSQL_DATABASE: wpdocker
+
+      MYSQL_USER: admin
+
+      MYSQL_PASSWORD: admin
+
+    restart: always
+
+  wordpress:
+
+    image: wordpress:php7.3-fpm-alpine
+
+    volumes:
+
+      - ./html:/var/www/html
+
+    depends_on:
+
+      - mysql
+
+    environment:
+
+      WORDPRESS_DB_HOST: mysql
+
+      MYSQL_ROOT_PASSWORD: Ultimo@20
+
+      WORDPRESS_DB_NAME: wpdocker
+
+      WORDPRESS_DB_USER: admin
+
+      WORDPRESS_DB_PASSWORD: admin
+
+      WORDPRESS_TABLE_PREFIX: wp_
+
+    links:
+
+      - mysql
+
+    restart: always
+
+  nginx:
+    image: nginx:alpine
+
+    volumes:
+
+      - ./config:/etc/nginx/conf.d
+
+      - ./html:/var/www/html
+
+    ports:
+
+      - 8080:80
+
+    links:
+
+      - wordpress

@@ -2,9 +2,9 @@
 
 ## Repositório de exercícios realizados em diversos cursos e formações
 
-    🎓 16 Formações;
-    📚 105 cursos concluídos;
-    📝 2197 exercícios resolvidos.
+- 🎓 16 Formações;
+- 📚 105 cursos concluídos;
+- 📝 2197 exercícios resolvidos.
 
 ## 🎓 Formação: Aprofunde em PHP com arquitetura e padrões de projeto - 42hs
 

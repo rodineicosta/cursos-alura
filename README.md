@@ -1,13 +1,12 @@
 # Cursos Alura
 
-<div style="text-align: center;">
-    <h2>Repositório de exercícios realizados em aulas de diversos cursos e formações na Alura.</h2>
-    <p>🎓 16 Formações | 📚 105 cursos concluídos | 📝 2197 exercícios resolvidos</p>
-</div>
+## Repositório de exercícios realizados em diversos cursos e formações
 
 ![Exercícios realizados](./capa-cursos-alura.png)
 
----
+                                            🎓 16 Formações;
+                                            📚 105 cursos concluídos;
+                                            📝 2197 exercícios resolvidos.
 
 ## 🎓 Formação: Aprofunde em PHP com arquitetura e padrões de projeto - 42hs
 

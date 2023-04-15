@@ -1,15 +1,15 @@
-# Design Patterns em PHP: padrões comportamentais
+# Design Patterns em PHP: padrões estruturais
 
 Categoria | Atividades | Carga horária | Finalizado | Certificado |
 :-:|:-:|:-:|:-:|:-:|
-Programação | 66 | 8 horas | 26/02/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/af92271c-ba6d-4961-b3ac-b7e59333f1c2) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/php-design-pattern-comportamental/formalCertificate)
+Programação | 54 | 8 horas | 26/02/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/67d16479-9c6a-4c3f-b371-749ec4915a25) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/php-design-pattern-estrutural/formalCertificate)
 
 ## Aulas
 
-- Strategy
-- Chain of Responsibility
-- Template Method
-- State
-- Command
-- Observer
-- Iterator
+- Adapters para reutilizar dependências
+- Exportando dados com Bridge
+- Mais de um imposto com Decorators
+- Compondo orçamentos com Composite
+- Facade para descontos
+- Proxy de cache
+- Flyweight: Pedidos mais leves

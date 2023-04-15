@@ -2,14 +2,14 @@
 
 ## Repositório de exercícios realizados em diversos cursos e formações
 
-                                                🎓 16 Formações;
-                                                📚 105 cursos concluídos;
-                                                📝 2197 exercícios resolvidos.
+    🎓 16 Formações;
+    📚 105 cursos concluídos;
+    📝 2197 exercícios resolvidos.
 
 ## 🎓 Formação: Aprofunde em PHP com arquitetura e padrões de projeto - 42hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Design Patterns em PHP: padrões comportamentais | 8 horas | 66 | 26/02/2022 | [📜](https://cursos.alura.com.br/certificate/af92271c-ba6d-4961-b3ac-b7e59333f1c2)
 Design Patterns em PHP: padrões estruturais | 8 horas | 63 | 28/02/2022 | [📜](https://cursos.alura.com.br/certificate/67d16479-9c6a-4c3f-b371-749ec4915a25)
 Design Patterns em PHP: padrões criacionais | 8 horas | 54 | 01/03/2022 | [📜](https://cursos.alura.com.br/certificate/ffdc90f6-36cd-493a-89ca-9743ac40bd3d)
@@ -28,7 +28,7 @@ PHP e Domain Driven Design: apresentando os conceitos | 8 horas | 49 | 04/03/202
 ## 🎓 Formação: Avançando em PHP - 82hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 PHP Composer: Dependências, Autoload e Publicação | 6 horas | 58 | 24/03/2022 | [📜](https://cursos.alura.com.br/certificate/94c93fff-6e45-43dd-8c8d-3b6921a7089c)
 PHP e MySQL: Criando uma webapp | 10 horas | 44 | 24/03/2022 | [📜](https://cursos.alura.com.br/certificate/97004190-1498-4ac1-89ed-a85c6cfabec7)
 PHP e PDO: trabalhando com bancos de dados | 10 horas | 77 | 26/03/2022 | [📜](https://cursos.alura.com.br/certificate/74d56d28-2392-4fd1-bcea-12f3e5642b10)
@@ -54,7 +54,7 @@ Laravel: construindo APIs | 8 horas | 54 | 20/09/2022 | [📜](https://cursos.al
 ## 🎓 Formação: Aprenda a programar em Java com Orientação a Objetos - 121hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Java JRE e JDK: compile e execute o seu programa | 8 horas | 83 | 21/12/2022 | [📜](https://cursos.alura.com.br/certificate/4b1d4f6c-7d84-4407-9ead-46a59d469895)
 Java OO: entendendo a Orientação a Objetos | 8 horas | 58 | 22/12/2022 | [📜](https://cursos.alura.com.br/certificate/e7c11570-9253-40d2-af4c-b3426af1f361)
 Java Polimorfismo: entenda herança e interfaces | 16 horas | 74 | 22/12/2022 | [📜](https://cursos.alura.com.br/certificate/fe3f4287-0ec1-4ecb-ba48-6a593c10b2e8)
@@ -77,7 +77,7 @@ TDD e Java: testes automatizados com JUnit | 8 horas | 41 | 17/03/2023 | [📜](
 ## 🎓 Formação: Aprenda a programar em PHP - 69hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 PHP: conceitos, lidando com dados, loops e mais | 6 horas | 59 | 23/02/2022 | [📜](https://cursos.alura.com.br/certificate/06cc9133-0c17-4171-9ff3-c6edc8ab6b31)
 Avançando com PHP: Arrays, Strings, Função e Web | 8 horas | 58 | 23/02/2022 | [📜](https://cursos.alura.com.br/certificate/8d9045a3-0693-41f0-b0d4-834c4702bfe3)
 Orientação a Objetos com PHP: Classes, métodos e atributos | 8 horas | 57 | 26/02/2022 | [📜](https://cursos.alura.com.br/certificate/1f5dcde7-806a-4066-a056-61e2bb3e2ed0)
@@ -100,7 +100,7 @@ PHP Exceptions: tratamento de erros | 8 horas | 61 | 23/03/2022 | [📜](https:/
 ## 🎓 Formação: PHP - 50hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 PHP: conceitos, lidando com dados, loops e mais | 6 horas | 59 | 23/02/2022 | [📜](https://cursos.alura.com.br/certificate/06cc9133-0c17-4171-9ff3-c6edc8ab6b31)
 Avançando com PHP: Arrays, Strings, Função e Web | 8 horas | 58 | 23/02/2022 | [📜](https://cursos.alura.com.br/certificate/8d9045a3-0693-41f0-b0d4-834c4702bfe3)
 Orientação a Objetos com PHP: Classes, métodos e atributos | 8 horas | 57 | 26/02/2022 | [📜](https://cursos.alura.com.br/certificate/1f5dcde7-806a-4066-a056-61e2bb3e2ed0)
@@ -122,7 +122,7 @@ PHP Exceptions: tratamento de erros | 8 horas | 61 | 23/03/2022 | [📜](https:/
 ## 🎓 Formação: Engenharia de software - 85hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Quality Assurance: plano de testes e gestão de bugs | 8 horas | 53 | 07/04/2023 | [📜](https://cursos.alura.com.br/certificate/db1ac2fc-2e2f-47be-a1a4-59b4975df8de)
 Microsserviços: padrões de projeto | 6 horas | 38 | 01/04/2023 | [📜](https://cursos.alura.com.br/certificate/1d2d83ab-df58-4143-a7f2-752ea13bce31)
 Microsserviços: explorando os conceitos | 8 horas | 43 | 01/04/2023 | [📜](https://cursos.alura.com.br/certificate/792fd190-1dc5-434e-9e43-509595c66671)
@@ -186,7 +186,7 @@ Extreme Programming: metodologia de desenvolvimento ágil de software | 8 horas 
 ## 🎓 Formação: Boas práticas em PHP - 64hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 SOLID com PHP: princípios da programação orientada a objetos | 6 horas | 43 | 26/02/2022 | [📜](https://cursos.alura.com.br/certificate/81bf4e64-0b53-48e9-a227-d17dde4839bd)
 Object Calisthenics: exercitando a Orientação a Objetos | 6 horas | 51 | 27/02/2022 | [📜](https://cursos.alura.com.br/certificate/5332961b-060d-4421-8490-b7ae38cc8d31)
 Refatoração em PHP: boas práticas no seu código | 8 horas | 47 | 23/08/2022 | [📜](https://cursos.alura.com.br/certificate/23a99037-c7fc-4177-b641-12a2faeccfa6)
@@ -211,7 +211,7 @@ PHP e Behavior Driven Development: BDD com Behat | 8 horas | 52 | 03/03/2022 | [
 ## 🎓 Formação: CSS: aprofunde em estilos - 36hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 CSS: Flexbox e layouts responsivos | 6 horas | 46 | 30/03/2023 | [📜](https://cursos.alura.com.br/certificate/bd616e2d-9b3d-4eb4-9d6a-1c7796f638d6)
 CSS: construindo layouts com Grid | 6 horas | 46 | 31/03/2023 | [📜](https://cursos.alura.com.br/certificate/aa7d932c-6395-4927-8bee-7d5d47a97dd7)
 SASS: CSS sintaticamente espetacular | 8 horas | 53 | 31/03/2023 | [📜](https://cursos.alura.com.br/certificate/95735ea5-f691-4754-8a6b-8459b576d44e)
@@ -229,7 +229,7 @@ Praticando CSS: Grid e Flexbox | 6 horas | 50 | 31/03/2023 | [📜](https://curs
 ## 🎓 Formação: Gerencie aplicações React com Typescript - 83hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 React: escrevendo com Typescript | 12 horas | 64 | 21/03/2023 | [📜](https://cursos.alura.com.br/certificate/ad0d89e4-017b-41f7-956e-05aadb42b4da)
 React: lidando com arquivos estáticos | 10 horas | 54 | 23/03/2023 | [📜](https://cursos.alura.com.br/certificate/9501eec1-b86e-41a1-8c44-96f52ecc347d)
 React: conhecendo a biblioteca React Router | 10 horas | 53 | 24/03/2023 | [📜](https://cursos.alura.com.br/certificate/8fd6f223-f0c3-459f-bbfe-4c02da008b82)
@@ -254,7 +254,7 @@ React: otimizando a performance | 8 horas | 44 | 25/03/2023 | [📜](https://cur
 ## 🎓 Formação: Melhore sua experiência de desenvolvimento com TypeScript - 31hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 TypeScript parte 1: evoluindo seu JavaScript | 10 horas | 65 | 06/05/2022 | [📜](https://cursos.alura.com.br/certificate/62cbd63c-508a-410e-8413-5d031c231951)
 TypeScript parte 2: avançando na linguagem | 10 horas | 63 | 07/05/2022 | [📜](https://cursos.alura.com.br/certificate/f9f419c5-982d-4ad6-9523-cee32eacfe7b)
 Typescript parte 3: mais técnicas e boas práticas | 10 horas | 57 | 14/05/2022 | [📜](https://cursos.alura.com.br/certificate/0c667ee8-e9d9-4695-8e0d-41d0dce9f415)
@@ -268,7 +268,7 @@ Typescript parte 3: mais técnicas e boas práticas | 10 horas | 57 | 14/05/2022
 ## 🎓 Formação: Ouse com o Framework Vue.js 3 - 27hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Vue3: explorando o framework | 8 horas | 44 | 25/03/2023 | [📜](https://cursos.alura.com.br/certificate/2a221529-eae6-40e4-8a5d-57720147d150)
 Vue3: avançando no framework | 8 horas | 48 | 26/03/2023 | [📜](https://cursos.alura.com.br/certificate/4b5d86d9-b2ed-4b35-ac68-e67dac0bd2f5)
 Vue3: composition API e Vuex | 8 horas | 44 | 26/03/2023 | [📜](https://cursos.alura.com.br/certificate/ab11f6af-4bbe-4d1a-9469-601feb61da2b)
@@ -286,7 +286,7 @@ Vue3: composition API e Vuex | 8 horas | 44 | 26/03/2023 | [📜](https://cursos
 ## 🎓 Formação: React com TypeScript - 75hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 React: escrevendo com Typescript | 12 horas | 64 | 21/03/2023 | [📜](https://cursos.alura.com.br/certificate/ad0d89e4-017b-41f7-956e-05aadb42b4da)
 React: lidando com arquivos estáticos | 10 horas | 54 | 23/03/2023 | [📜](https://cursos.alura.com.br/certificate/9501eec1-b86e-41a1-8c44-96f52ecc347d)
 React: conhecendo a biblioteca React Router | 10 horas | 53 | 24/03/2023 | [📜](https://cursos.alura.com.br/certificate/8fd6f223-f0c3-459f-bbfe-4c02da008b82)
@@ -309,7 +309,7 @@ React: testando os seus componentes | 10 horas | 52 | 21/03/2023 | [📜](https:
 ## 🎓 Formação: Integração Contínua e Entrega Contínua - 48hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Integração Contínua: testes automatizados e pipeline no Github Actions | 6 horas | 49 | 09/04/2023 | [📜](https://cursos.alura.com.br/certificate/36565b46-8cb6-4736-b074-fc4e54c58565)
 Integração Contínua: Pipeline Docker no Github Actions | 8 horas | 52 | 09/04/2023 | [📜](https://cursos.alura.com.br/certificate/6c6f8997-a1f1-4850-ae42-a1e4427c73b3)
 Integração Contínua: Pipeline de entrega e implementação contínua na EC2 | 8 horas | 51 | 12/04/2023 | [📜](https://cursos.alura.com.br/certificate/a6740261-20ae-4d28-8d8e-062583fe6c94)
@@ -327,7 +327,7 @@ Integração Contínua: automatizando a entrega no Kubernetes | 8 horas | 46 | 1
 ## 🎓 Formação: DevOps - 58hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform | 8 horas | 36 | 08/04/2023 | [📜](https://cursos.alura.com.br/certificate/f0a6d864-9f6f-4be7-bab3-0d7644f98452)
 Docker: criando e gerenciando containers | 10 horas | 56 | 08/04/2023 | [📜](https://cursos.alura.com.br/certificate/68175f00-2f68-4b40-adec-9f9898084c56)
 Integração Contínua: testes automatizados e pipeline no Github Actions | 6 horas | 49 | 09/04/2023 | [📜](https://cursos.alura.com.br/certificate/36565b46-8cb6-4736-b074-fc4e54c58565)
@@ -349,7 +349,7 @@ Monitoramento: Prometheus, Grafana e Alertmanager | 12 horas | 30 | 11/04/2023 |
 ## 🎓 Formação: Começando em DevOps - 54hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Arquitetura de computadores: por trás de como seu programa funciona | 8 horas | 53 | 07/04/2023 | [📜](https://cursos.alura.com.br/certificate/7a31b33e-9c92-4903-889f-1041aa5fe11d)
 Windows Prompt: utilizando o CMD | 8 horas | 52 | 07/04/2023 | [📜](https://cursos.alura.com.br/certificate/84a2de61-e352-4805-929c-2bbb0d2972d5)
 Linux Onboarding: usando a CLI de uma forma rápida e prática | 8 horas | 42 | 07/04/2023 | [📜](https://cursos.alura.com.br/certificate/fe6db47c-a7ed-43d4-9959-3ef29838d8f5)
@@ -380,7 +380,7 @@ Redes onboarding: uma perspectiva prática | 8 horas | 38 | 08/04/2023 | [📜](
 ## 🎓 Formação: Shell Scripting: automatize tarefas - 16hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Shell Scripting parte 1: scripts de automação de tarefas | 8 horas | 48 | 13/04/2023 | [📜](https://cursos.alura.com.br/certificate/c03d97f5-e90b-4ad1-b1e5-8de61a1ce2c1)
 Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup | 8 horas | 53 | 13/04/2023 | [📜](https://cursos.alura.com.br/certificate/0be4ba74-b6c4-4861-9062-a9b2a1071bed)
 
@@ -391,7 +391,7 @@ Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup | 8 h
 ### 👨🏾‍💻 Programação - 102hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 JavaScript e HTML: desenvolva um jogo e pratique lógica de programação | 16 horas | 136 | 23/02/2022 | [📜](https://cursos.alura.com.br/certificate/efdd15a1-7bcf-492e-acb5-d4f67f1f1a5c)
 JavaScript e HTML: pratique lógica com desenhos, animações e um jogo | 10 horas | 58 | 23/02/2022 | [📜](https://cursos.alura.com.br/certificate/9f15d198-67fa-4a3d-ad97-a32fc136957a)
 Doctrine ORM: acesse o banco com Mapeamento Objeto-Relacional | 10 horas | 75 | 31/03/2022 | [📜](https://cursos.alura.com.br/certificate/d3824d41-a78e-4efc-8513-97a7a650002d)
@@ -409,7 +409,7 @@ Doctrine: conhecendo um ORM PHP | 8 horas | 46 | 31/08/2022 | [📜](https://cur
 ### 💻 Front-end - 64hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 JavaScript: conhecendo o Browser e padrões de projeto | 12 horas | 92 | 25/09/2022 | [📜](https://cursos.alura.com.br/certificate/6df6fd71-33e8-4b4f-b2cc-18cc22c323e7)
 JavaScript: aprofundando em MVC, padrão Proxy e Factory | 12 horas | 79 | 28/03/2023 | [📜](https://cursos.alura.com.br/certificate/2982f434-2dc9-4a8e-97ea-d53ea91a8384)
 Expressões regulares: capturando textos de forma mágica | 12 horas | 81 | 13/04/2023 | [📜](https://cursos.alura.com.br/certificate/af29e64f-6412-4117-b762-4e459d6730e8)
@@ -421,7 +421,7 @@ HTML5 e CSS3 parte 4: avançando no CSS | 8 horas | 49 | 09/04/2022 | [📜](htt
 ### ⚙️ DevOps - 10hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 Docker: Criando containers sem dor de cabeça | 10 horas | 60 | 04/02/2022 | [📜](https://cursos.alura.com.br/certificate/61c2f7f8-1c89-4d66-b4a7-e880e4187d2c)
 
 ---
@@ -429,6 +429,6 @@ Docker: Criando containers sem dor de cabeça | 10 horas | 60 | 04/02/2022 | [�
 ### 📈 Data Science - 20hs
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
------------- | ------------- | ------------- | ------------- | -------------
+---|:-:|:-:|:-:|:-:
 SQL com MySQL: manipule e consulte dados | 12 horas | 60 | 31/08/2022 | [📜]()
 Data Visualization: técnicas de visualização com Google Sheets | 8 horas | 60 | 14/04/2023 | [📜]()

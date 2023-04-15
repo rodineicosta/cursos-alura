@@ -1,8 +1,8 @@
 # Design Patterns em PHP: padrões estruturais
 
-Categoria | Atividades | Carga horária | Finalizado | Certificado |
+Categoria | Carga horária | Atividades | Finalizado | Certificado |
 :-:|:-:|:-:|:-:|:-:|
-Programação | 54 | 8 horas | 26/02/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/67d16479-9c6a-4c3f-b371-749ec4915a25) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/php-design-pattern-estrutural/formalCertificate)
+Programação | 8 horas | 54 | 26/02/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/67d16479-9c6a-4c3f-b371-749ec4915a25) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/php-design-pattern-estrutural/formalCertificate)
 
 ## Aulas
 

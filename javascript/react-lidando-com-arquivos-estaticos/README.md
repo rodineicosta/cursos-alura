@@ -2,7 +2,7 @@
 
 Categoria | Carga horária | Atividades | Finalizado | Certificado |
 :-:|:-:|:-:|:-:|:-:|
-Front-end | 10 horas | 54 | 21/03/2023 | [Certificado Normal](https://cursos.alura.com.br/certificate/9501eec1-b86e-41a1-8c44-96f52ecc347d) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/react-arquivos-estaticos/formalCertificate)
+Front-end | 10 horas | 54 | 23/03/2023 | [Certificado Normal](https://cursos.alura.com.br/certificate/9501eec1-b86e-41a1-8c44-96f52ecc347d) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/react-arquivos-estaticos/formalCertificate)
 
 ## Aulas
 

@@ -1,3 +1,19 @@
+# Refatoração em PHP: boas práticas no seu código
+
+Categoria | Carga horária | Atividades | Finalizado | Certificado |
+:-:|:-:|:-:|:-:|:-:|
+Programação | 8 horas | 47 | 23/08/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/23a99037-c7fc-4177-b641-12a2faeccfa6) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/refatoracao-php-boas-praticas-codigo/formalCertificate)
+
+## Aulas
+
+- Primeiros passos
+- Métodos
+- Variáveis
+- Substituindo Algoritmo
+- Extraindo classes
+
+---
+
 # Google Crawler
 [![Latest Stable Version](https://poser.pugx.org/cviniciussdias/google-crawler/v/stable)](https://packagist.org/packages/cviniciussdias/google-crawler)
 [![Build Status](https://travis-ci.org/CViniciusSDias/google-crawler.svg?branch=master)](https://travis-ci.org/CViniciusSDias/google-crawler)

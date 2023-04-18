@@ -1,3 +1,19 @@
+# React: gerenciando estado com Recoil
+
+Categoria | Carga horária | Atividades | Finalizado | Certificado |
+:-:|:-:|:-:|:-:|:-:|
+Front-end | 8 horas | 45 | 24/09/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/19c20b7e-7ce7-4cdc-9fb7-848cf152529d) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/react-gerenciando-estado-recoil/formalCertificate)
+
+## Aulas
+
+- Evoluindo o legado
+- Manipulando os eventos
+- Acoplamento e coesão
+- Filtrando eventos
+- Seletores Async e Depuração
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

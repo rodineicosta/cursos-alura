@@ -7,12 +7,12 @@
 <summary>🎓 16 Formações</summary>
 
 - [Formação: Aprofunde em PHP com arquitetura e padrões de projeto](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprofunde-em-php-com-arquitetura-e-padr%C3%B5es-de-projeto---42hs)
-- [Formação: Avançando em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-avan%C3%A7ando-em-php---82hs)
+- [Formação: Avançando em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-avan%C3%A7ando-em-php---91hs)
 - [Formação: Aprenda a programar em Java com Orientação a Objetos](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprenda-a-programar-em-java-com-orienta%C3%A7%C3%A3o-a-objetos---121hs)
-- [Formação: Aprenda a programar em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprenda-a-programar-em-php---69hs)
+- [Formação: Aprenda a programar em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprenda-a-programar-em-php---72hs)
 - [Formação: PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-php---50hs)
 - [Formação: Engenharia de software](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-engenharia-de-software---85hs)
-- [Formação: Boas práticas em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-boas-pr%C3%A1ticas-em-php---64hs)
+- [Formação: Boas práticas em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-boas-pr%C3%A1ticas-em-php---56hs)
 - [Formação: CSS: aprofunde em estilos](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-css-aprofunde-em-estilos---36hs)
 - [Formação: Gerencie aplicações React com Typescript](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-gerencie-aplica%C3%A7%C3%B5es-react-com-typescript---83hs)
 - [Formação: Melhore sua experiência de desenvolvimento com TypeScript](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-melhore-sua-experi%C3%AAncia-de-desenvolvimento-com-typescript---31hs)

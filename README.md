@@ -111,7 +111,7 @@ TDD e Java: testes automatizados com JUnit | 8 horas | 41 | 17/03/2023 | [📜](
 
 ---
 
-## 🎓 Formação: Aprenda a programar em PHP - 71hs
+## 🎓 Formação: Aprenda a programar em PHP - 72hs
 #### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/d8b9e7a2-1afc-40ab-be6c-7642c548390e)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
@@ -129,9 +129,13 @@ PHP Exceptions: tratamento de erros | 8 horas | 61 | 23/03/2022 | [📜](https:/
 
 - Alura+: Trabalhando com Multibyte String em PHP - 6min
 - Alura+: Upload de arquivos com PHP - 8min
+- Video: PHP (A linguagem mais querida da internet?) // Dicionário do Programador - YouTube - 60min
+- Artigo: PHP: da instalação ao primeiro código | Alura - 30min
+- Video: Como o PHP funciona? - Conheça o OPcache | Dias de Dev - YouTube - 60min
 - Artigo: POO: o que é programação orientada a objetos? | Alura Cursos Online - 30min
-- Podcast: Práticas de Orientação a Objetos - Hipsters #129 - Hipsters Ponto TechHipsters Ponto Tech - 60min
+- Podcast: Práticas de Orientação a Objetos - Hipsters #129 - Hipsters Ponto TechHipsters Ponto Tech 60min
 - Artigo: Trabalhando com arrays em PHP | Alura Cursos Online - 30min
+- Video: Números Decimais - Problemas de Precisão | Dias de Dev - YouTube - 60min
 
 ---
 

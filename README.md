@@ -1,6 +1,6 @@
 # Cursos Alura
 
-## Repositório de projetos criados em cursos e formações na plataforma [Alura Cursos Online](@alura-cursos)
+## Repositório de projetos criados em cursos e formações na plataforma [Alura Cursos Online](https://github.com/alura-cursos)
 
 <details>
 

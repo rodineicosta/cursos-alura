@@ -41,6 +41,7 @@
 📝 2.197 exercícios resolvidos
 
 ## 🎓 Formação: Aprofunde em PHP com arquitetura e padrões de projeto - 42hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/e747c6f5-46a7-4c16-85d0-7491cf941b8a)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -59,7 +60,8 @@ PHP e Domain Driven Design: apresentando os conceitos | 8 horas | 49 | 04/03/202
 
 ---
 
-## 🎓 Formação: Avançando em PHP - 82hs
+## 🎓 Formação: Avançando em PHP - 91hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/d337aef3-472a-49e6-b65d-cf9844bc75fc)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -86,6 +88,7 @@ Laravel: construindo APIs | 8 horas | 54 | 20/09/2022 | [📜](https://cursos.al
 ---
 
 ## 🎓 Formação: Aprenda a programar em Java com Orientação a Objetos - 121hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/2ec2377c-24a4-410f-a1d0-4bdc93872c51)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -108,7 +111,8 @@ TDD e Java: testes automatizados com JUnit | 8 horas | 41 | 17/03/2023 | [📜](
 
 ---
 
-## 🎓 Formação: Aprenda a programar em PHP - 69hs
+## 🎓 Formação: Aprenda a programar em PHP - 71hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/d8b9e7a2-1afc-40ab-be6c-7642c548390e)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -132,6 +136,7 @@ PHP Exceptions: tratamento de erros | 8 horas | 61 | 23/03/2022 | [📜](https:/
 ---
 
 ## 🎓 Formação: PHP - 50hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/d8b9e7a2-1afc-40ab-be6c-7642c548390e)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -154,6 +159,7 @@ PHP Exceptions: tratamento de erros | 8 horas | 61 | 23/03/2022 | [📜](https:/
 ---
 
 ## 🎓 Formação: Engenharia de software - 85hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/3f41ad26-ffe8-4f1d-8c53-7cfa66545dd0)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -217,7 +223,8 @@ Extreme Programming: metodologia de desenvolvimento ágil de software | 8 horas 
 
 ---
 
-## 🎓 Formação: Boas práticas em PHP - 64hs
+## 🎓 Formação: Boas práticas em PHP - 56hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/b35ea651-7cf3-493a-9dec-f1bcdf703e96)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -243,6 +250,7 @@ PHP e Behavior Driven Development: BDD com Behat | 8 horas | 52 | 03/03/2022 | [
 ---
 
 ## 🎓 Formação: CSS: aprofunde em estilos - 36hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/3ed703a8-2ddd-46bd-823a-8734e89d2101)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -261,6 +269,7 @@ Praticando CSS: Grid e Flexbox | 6 horas | 50 | 31/03/2023 | [📜](https://curs
 ---
 
 ## 🎓 Formação: Gerencie aplicações React com Typescript - 83hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/1d8ff0cf-c0be-4c44-a44c-cef8136e427f)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -286,6 +295,7 @@ React: otimizando a performance | 8 horas | 44 | 25/03/2023 | [📜](https://cur
 ---
 
 ## 🎓 Formação: Melhore sua experiência de desenvolvimento com TypeScript - 31hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/1f7988ee-7802-465d-a7fd-066a84e4f291)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -300,6 +310,7 @@ Typescript parte 3: mais técnicas e boas práticas | 10 horas | 57 | 14/05/2022
 ---
 
 ## 🎓 Formação: Ouse com o Framework Vue.js 3 - 27hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/995c2783-0e38-4d14-b2fe-f5f8a9bdffbd)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -318,6 +329,7 @@ Vue3: composition API e Vuex | 8 horas | 44 | 26/03/2023 | [📜](https://cursos
 ---
 
 ## 🎓 Formação: React com TypeScript - 75hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/1d8ff0cf-c0be-4c44-a44c-cef8136e427f)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -341,6 +353,7 @@ React: testando os seus componentes | 10 horas | 52 | 21/03/2023 | [📜](https:
 ---
 
 ## 🎓 Formação: Integração Contínua e Entrega Contínua - 48hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/1a6a1ce3-6ee4-46ac-b7a0-6649116f5418)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -359,6 +372,7 @@ Integração Contínua: automatizando a entrega no Kubernetes | 8 horas | 46 | 1
 ---
 
 ## 🎓 Formação: DevOps - 58hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/74c0b6f6-1314-4efc-bb9a-2b12a4598453)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -381,6 +395,7 @@ Monitoramento: Prometheus, Grafana e Alertmanager | 12 horas | 30 | 11/04/2023 |
 ---
 
 ## 🎓 Formação: Começando em DevOps - 54hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/915b1e3a-b99b-4779-bb1f-b0f86bda835d)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -412,6 +427,7 @@ Redes onboarding: uma perspectiva prática | 8 horas | 38 | 08/04/2023 | [📜](
 ---
 
 ## 🎓 Formação: Shell Scripting: automatize tarefas - 16hs
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/71450d70-67ab-492a-9157-a741a686ebd6)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:

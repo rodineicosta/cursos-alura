@@ -30,7 +30,7 @@
 <summary>📚 105 cursos concluídos</summary>
 
 - [CSS](/css)
-- [Data Sciense](/data_science)
+- [Data Sciense](/data-science)
 - [DevOps](/devops)
 - [Java](/java)
 - [Javascript](/javascript)

@@ -1,3 +1,20 @@
+# Laravel parte 3: Eventos, filas, upload e e-mail
+
+Categoria | Carga horária | Atividades | Finalizado | Certificado |
+:-:|:-:|:-:|:-:|:-:|
+Programação | 10 horas | 56 | 30/04/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/141d13a3-ecee-4a9d-8bdb-b9b3a1a72ea4) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/laravel-eventos-filas-upload-email/formalCertificate)
+
+## Aulas
+
+- Template de e-mail
+- Envio de e-mail
+- Processando dados com filas
+- Trabalhando com eventos
+- Upload de arquivos
+- Usando jobs
+
+---
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">

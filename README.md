@@ -136,7 +136,7 @@ PHP Exceptions: tratamento de erros | 8 horas | 61 | 23/03/2022 | [📜](https:/
 ---
 
 ## 🎓 Formação: PHP - 50hs
-#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/d8b9e7a2-1afc-40ab-be6c-7642c548390e)
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/71fae2d6-0b8d-4a44-8e0f-d5fd84002ebd)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
@@ -329,7 +329,7 @@ Vue3: composition API e Vuex | 8 horas | 44 | 26/03/2023 | [📜](https://cursos
 ---
 
 ## 🎓 Formação: React com TypeScript - 75hs
-#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/1d8ff0cf-c0be-4c44-a44c-cef8136e427f)
+#### [Certificado da Formação](https://cursos.alura.com.br/degree/certificate/75b6002e-917a-430b-ba36-6f7c1d109cd4)
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:

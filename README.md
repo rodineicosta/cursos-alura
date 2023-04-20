@@ -1,10 +1,44 @@
 # Cursos Alura
 
-## Repositório de exercícios realizados em diversos cursos e formações
+## Repositório de projetos criados em cursos e formações na plataforma [Alura Cursos Online](@alura-cursos)
 
-- 🎓 16 Formações;
-- 📚 105 cursos concluídos;
-- 📝 2197 exercícios resolvidos.
+<details>
+
+<summary>🎓 16 Formações</summary>
+
+- [Formação: Aprofunde em PHP com arquitetura e padrões de projeto](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprofunde-em-php-com-arquitetura-e-padr%C3%B5es-de-projeto---42hs)
+- [Formação: Avançando em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-avan%C3%A7ando-em-php---82hs)
+- [Formação: Aprenda a programar em Java com Orientação a Objetos](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprenda-a-programar-em-java-com-orienta%C3%A7%C3%A3o-a-objetos---121hs)
+- [Formação: Aprenda a programar em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-aprenda-a-programar-em-php---69hs)
+- [Formação: PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-php---50hs)
+- [Formação: Engenharia de software](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-engenharia-de-software---85hs)
+- [Formação: Boas práticas em PHP](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-boas-pr%C3%A1ticas-em-php---64hs)
+- [Formação: CSS: aprofunde em estilos](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-css-aprofunde-em-estilos---36hs)
+- [Formação: Gerencie aplicações React com Typescript](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-gerencie-aplica%C3%A7%C3%B5es-react-com-typescript---83hs)
+- [Formação: Melhore sua experiência de desenvolvimento com TypeScript](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-melhore-sua-experi%C3%AAncia-de-desenvolvimento-com-typescript---31hs)
+- [Formação: Ouse com o Framework Vue.js 3](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-ouse-com-o-framework-vuejs-3---27hs)
+- [Formação: React com TypeScript](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-react-com-typescript---75hs)
+- [Formação: Integração Contínua e Entrega Contínua](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-integra%C3%A7%C3%A3o-cont%C3%ADnua-e-entrega-cont%C3%ADnua---48hs)
+- [Formação: DevOps](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-devops---58hs)
+- [Formação: Começando em DevOps](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-come%C3%A7ando-em-devops---54hs)
+- [Formação: Shell Scripting: automatize tarefas](https://github.com/rodineicosta/cursos-alura#-forma%C3%A7%C3%A3o-shell-scripting-automatize-tarefas---16hs)
+
+</details>
+
+<details>
+
+<summary>📚 105 cursos concluídos</summary>
+
+- [CSS](/css)
+- [Data Sciense](/data_science)
+- [DevOps](/devops)
+- [Java](/java)
+- [Javascript](/javascript)
+- [PHP](/php)
+
+</details>
+
+📝 2.197 exercícios resolvidos
 
 ## 🎓 Formação: Aprofunde em PHP com arquitetura e padrões de projeto - 42hs
 

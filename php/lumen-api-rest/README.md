@@ -1,3 +1,19 @@
+# Lumen: API Rest com o Micro-framework do Laravel
+
+Categoria | Carga horária | Atividades | Finalizado | Certificado |
+:-:|:-:|:-:|:-:|:-:|
+Programação | 10 horas | 62 | 01/05/2022 | [Certificado Normal](https://cursos.alura.com.br/certificate/05ccc227-0b7c-4ca2-87f4-35693b32c3d4) / [Certificado Formal](https://cursos.alura.com.br/user/rodineicosta/course/php-micro-framework-lumen-api-rest/formalCertificate)
+
+## Aulas
+
+- O primeiro Endpoint
+- Acesso ao recurso pela API
+- Lapidando a aplicação
+- Navegando e paginando recursos
+- Autenticação e proteção das rotas
+
+---
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)

@@ -430,5 +430,5 @@ Docker: Criando containers sem dor de cabeça | 10 horas | 60 | 04/02/2022 | [�
 
 Curso | Carga Horária | Atividades | Finalizado | Certificado
 ---|:-:|:-:|:-:|:-:
-SQL com MySQL: manipule e consulte dados | 12 horas | 60 | 31/08/2022 | [📜]()
-Data Visualization: técnicas de visualização com Google Sheets | 8 horas | 60 | 14/04/2023 | [📜]()
+SQL com MySQL: manipule e consulte dados | 12 horas | 60 | 31/08/2022 | [📜](https://cursos.alura.com.br/certificate/cf1c57f6-c87d-44d9-8698-82db7419c6ab)
+Data Visualization: técnicas de visualização com Google Sheets | 8 horas | 60 | 14/04/2023 | [📜](https://cursos.alura.com.br/certificate/b3accbda-15cf-46e9-9d97-cfd302e898f5)
